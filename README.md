@@ -56,12 +56,12 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tips367&theme=algolia" alt="tips367" /></p>
 
 <!-- Trophies -->
-<div align="center"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img height="180" width="160" src="https://github.com/tips367/tips367/blob/main/left.png">
-    <img src="https://github-profile-trophy.vercel.app/?username=tips367&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark&row=1&column=5" alt="tips367" />
+    <img width="500" src="https://github-profile-trophy.vercel.app/?username=tips367&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark&row=1&column=5" alt="tips367" />
     <img height="180" width="160" src="https://github.com/tips367/tips367/blob/main/right.png"></a> 
-</div>
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
