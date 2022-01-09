@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! 👋, I'm Tipu khan </h1>
 
 <!-- About me -->
-<h3 align="center">A professional Embedded engineer. In a process to learn Full stack web development and Machine learning.</h3>
+<h3 align="center">A professional Embedded engineer. In a process to learn Full stack web development.</h3>
 
 <!-- Snake eating commits animation -->
 ![Snake animation](https://github.com/tips367/tips367/blob/main/github-user-contribution.svg)
